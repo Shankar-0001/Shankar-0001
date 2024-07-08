@@ -7,10 +7,10 @@ I’m a passionate and dedicated Frontend Developer with a strong foundation in 
 
 ## Projects
  - [E-COM](https://github.com/Shankar-0001/E-COM)
- - [YouTube-Video-Library](https://github.com/Shankar-0001/YouTube-Video-Library)
  - [Portfolio](https://github.com/Shankar-0001/Portfolio)
- - [React-Todo-App](https://github.com/Shankar-0001/React-Todo-App)
  - [PG-Finder-App](https://github.com/Shankar-0001/PG-Finder-App)
+ - [React-Todo-App](https://github.com/Shankar-0001/React-Todo-App)
+ - [YouTube-Video-Library](https://github.com/Shankar-0001/YouTube-Video-Library)
 
 ## Languages and Tools
 
