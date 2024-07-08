@@ -28,7 +28,3 @@ I’m a passionate and dedicated Frontend Developer with a strong foundation in 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="50" height="60" style="max-width: 100%;">
 </p>
 
-<div>
-  <h2 align="center">Thank you for visiting my profile! 😊</h2>
-</div>
-
