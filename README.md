@@ -6,8 +6,9 @@
 I’m a passionate and dedicated Frontend Developer with a strong foundation in MERN Stack Development. I love to work on innovative projects that make an impact.
 
 ## Projects
- - [E-COM](https://github.com/Shankar-0001/E-COM)
- - [Portfolio](https://github.com/Shankar-0001/Portfolio)
+ - [BrainMedia-Solution](https://brain-media-solution-spa.vercel.app/)
+ - [E-COM](https://e-com-shop-app.vercel.app/)
+ - [Portfolio](https://shankar-portfolio.netlify.app/)
  - [PG-Finder-App](https://github.com/Shankar-0001/PG-Finder-App)
  - [React-Todo-App](https://github.com/Shankar-0001/React-Todo-App)
  - [YouTube-Video-Library](https://github.com/Shankar-0001/YouTube-Video-Library)
